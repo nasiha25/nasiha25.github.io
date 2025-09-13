@@ -22,7 +22,7 @@ KiCad's Schematic Editor supports everything from the most basic schematic to a 
 ### PCB Layout
 KiCad's PCB Editor is approachable enough to make your first PCB design easy, and powerful enough for complex modern designs. A powerful interactive router and improved visualization and selection tools make layout tasks easier than ever.
 
-3D Viewer
+### 3D Viewer
 KiCad's 3D Viewer allows easy inspection of your PCB to check mechanical fit and to preview your finished product. A built-in raytracer with customizable lighting can create realistic images to show off your work.
 
 
