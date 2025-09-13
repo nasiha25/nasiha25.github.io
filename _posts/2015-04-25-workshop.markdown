@@ -9,12 +9,12 @@ date:   2015-04-25 12:12:12
 
 ### What is KiCad?
 KiCad is a free and open-source software suite for Electronic Design Automation (EDA), used for designing electronic circuit schematics and printed circuit boards (PCBs). It is a powerful tool for professionals and hobbyists and runs on Windows, macOS, and Linux.
-https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg"
 For a beginner, the easiest way to explain KiCad is to think of it as a blueprint and workshop for creating printed circuit boards (PCBs). It takes you from the initial idea of an electronic circuit to producing the manufacturing files for a physical PCB.
 
 ### What is a PCB?
 A printed circuit board (PCB) is a structure for assembling electronic components and their connections into a unified circuit that allows electrical current to pass between components. The PCB baseboard is typically made of a rigid nonconductive material, although it can also be built on a flexible base or on a base made up of both rigid and flexible materials. Electronic components such as diodes, inductors and transistors attach to the circuit board, and traces (electrical conduits) connect components.
-http://t3.gstatic.com/images?q=tbn:ANd9GcT4tHdCiBFwE5-K7v6MSQJJG7hkvsk8w7to6zKxKq-sTifAO5VNnYPxPllE0EPM0RKzjMyIAu1S
+image: "http://t3.gstatic.com/images?q=tbn:ANd9GcT4tHdCiBFwE5-K7v6MSQJJG7hkvsk8w7to6zKxKq-sTifAO5VNnYPxPllE0EPM0RKzjMyIAu1S"
 Printed circuit boards support electronic devices of all types and sizes. For example, many consumer products contain PCBs, including laptops, tablets, smartphones and smartwatches, as well as appliances, entertainment systems and IoT devices. PCBs also drive communication and navigation systems and are found in industrial and medical equipment, automobiles, aircraft and sea vessels.
 
 
