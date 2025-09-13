@@ -7,11 +7,15 @@ image: "https://www.kicad.org/img/frontpage/kicad_pcbnew.png"
 date:   2015-04-24 12:12:12
 ---
 
-### 
-KiCad has become a popular choice in the electronics community for several reasons:
+### KiCad has become a popular choice in the electronics community for several reasons:
+
 Completely free: KiCad is licensed under GNU GPL v3, making it free to use for both personal and professional projects without any feature limitations.
+
 Open-source: With its open-source nature, KiCad benefits from a transparent development process and active community contributions.
+
 Cross-platform: It runs seamlessly on all major operating systems, including Windows, macOS, and Linux.
+
 Professional capabilities: While approachable for beginners, KiCad offers features powerful enough for creating complex, professional-grade designs.
+
 Growing community support: If you have questions or run into issues, an active user forum provides a robust source of help and information.
 
