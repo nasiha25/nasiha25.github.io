@@ -1,6 +1,6 @@
 ---
 title:  "HAND ON KiCad"
-subtitle: "installation of KiCad"
+subtitle: "installation of KiCad "
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3skBB_AudQ1he9hBstfh41d_S6d6hT8QR_w&s"
@@ -10,10 +10,10 @@ date:   2015-04-22 12:12:12
 ### Downloading and Installing KiCad
 Here’s a simple 4 steps process to download and install KiCad:
 
-Go to KiCad.org
-Click on ‘Download ‘ button that’s right in the middle of home page
-Select the operating System of your machine
-Click on GitHub
+Go to KiCad.org.
+Click on ‘Download ‘ button that’s right in the middle of home page.
+Select the operating System of your machine.
+Click on GitHub.
 Once you have downloaded it’s a straightforward process to install. Follow along the installation setup window to finish up the process.
 
 ### Schematic Capture
