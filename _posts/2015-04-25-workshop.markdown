@@ -1,5 +1,5 @@
 ---
-title:  "introduction to kiCad"
+title:  "introduction to KiCad"
 subtitle: " Your Professional-Grade Tool for Electronic Design"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
