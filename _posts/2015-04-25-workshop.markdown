@@ -3,7 +3,7 @@ title:  "introduction to KiCad"
 subtitle: " Your Professional-Grade Tool for Electronic Design"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image: "https://siytek.com/wp-content/uploads/2022/04/KiCad-Feat-Img.png"
+image: "https://siytek.com/wp-content/uploads/2022/04/KiCad-Feat-Img.jpg"
 date:   2015-04-25 12:12:12
 ---
 
