@@ -1,9 +1,9 @@
 ---
-title:  "kicad Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "https://www.kicad.org/img/frontpage/kicad_3dviewer.png"
+title:  "introduction to kiCad"
+subtitle: ""
+author: "Npv"
+avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
+image: "https://siytek.com/wp-content/uploads/2022/04/KiCad-Feat-Img.jpg"
 date:   2015-04-25 12:12:12
 ---
 
