@@ -3,7 +3,7 @@ title:  " The KiCad Workflow "
 subtitle: " From Idea to PCB: A Project-Based Approach"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image: "https://docs.kicad.org/5.1/en/getting_started_in_kicad/images/kicad_flowchart.png"
+image: "https://community.element14.com/resized-image/__size/1280x720/__key/commentfiles/f7d226abd59f475c9d224a79e3f0ec07-f0c798fc-9f99-4a1a-a248-fafeb78d97b5/KLP3e_2D00_03_2D00_00_2D00_00_2D00_15_2D00_236_2D00_scaled.jpg"
 date:   2015-04-23 12:12:12
 ---
 
@@ -24,7 +24,7 @@ Visualize the board in the 3D viewer to check clearances and aesthetic.
 
 Generate manufacturing files once you are satisfied with the design. These files are used by PCB manufacturers to produce your physical circuit board. 
 
-### 
+![workflow chart](https://docs.kicad.org/5.1/en/getting_started_in_kicad/images/kicad_flowchart.png)
 
 
 
