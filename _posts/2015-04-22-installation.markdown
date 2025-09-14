@@ -11,13 +11,13 @@ date:   2015-04-22 12:12:12
 
 Here’s a simple 4 steps process to download and install KiCad:
 
-Go to KiCad.org.
+* Go to KiCad.org.
 
-Click on ‘Download ‘ button that’s right in the middle of home page.
+* Click on ‘Download ‘ button that’s right in the middle of home page.
 
-Select the operating System of your machine.
+* Select the operating System of your machine.
 
-Click on GitHub.
+* Click on GitHub.
 
 Once you have downloaded it’s a straightforward process to install. Follow along the installation setup window to finish up the process.
 
