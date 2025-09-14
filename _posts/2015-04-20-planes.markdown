@@ -1,9 +1,9 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+title:  "Design the PCB layout"
+subtitle: "your manufacturable blueprint"
+author: "Npv"
+avatar: ""
+image: ""
 date:   2015-04-20 12:12:12
 ---
 
