@@ -3,7 +3,7 @@ title:  "a simple circuit to draw in kicad."
 subtitle: " making a blueprint for your PCB"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image: "https://www.kicad.org/img/frontpage/kicad_pcbnew.png"
+image: "http://t2.gstatic.com/images?q=tbn:ANd9GcRuh0i512-rKvmtMBXm-GLliLqH5E1X6Njrm40jtveUgoj5qXn4ibmEhSvA2henFwnny4Zo9ci3"
 date:   2015-04-21 12:12:12
 ---
 
