@@ -3,7 +3,7 @@ title:  " The KiCad Workflow "
 subtitle: " From Idea to PCB: A Project-Based Approach"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image:"https://docs.kicad.org/5.1/en/getting_started_in_kicad/images/kicad_flowchart.png"
+image: "https://docs.kicad.org/5.1/en/getting_started_in_kicad/images/kicad_flowchart.png"
 date:   2015-04-23 12:12:12
 ---
 
