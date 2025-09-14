@@ -30,7 +30,40 @@ KiCad's PCB Editor is approachable enough to make your first PCB design easy, an
 ### 3D Viewer
 KiCad's 3D Viewer allows easy inspection of your PCB to check mechanical fit and to preview your finished product. A built-in raytracer with customizable lighting can create realistic images to show off your work.
 
+The main KiCad components are usually started from the launcher buttons in the KiCad project manager window. These components include:
 
+Component name	Description
+Schematic Editor
+
+Create and edit schematics; simulate circuits with SPICE; generate BOM files
+
+Symbol Editor
+
+Create and edit schematic symbols and manage symbol libraries
+
+PCB Editor
+
+Create and edit PCBs; export 2D and 3D files; generate fabrication output files
+
+Footprint Editor
+
+Create and edit PCB component footprints and manage footprint libraries
+
+GerbView
+
+Gerber and drill file viewer
+
+Bitmap2Component
+
+Convert bitmap images to symbols or footprints
+
+PCB Calculator
+
+Calculator for components, track width, electrical spacing, color codes, etc.
+
+Page Layout Editor
+
+Create and edit worksheet file
 
 
 
