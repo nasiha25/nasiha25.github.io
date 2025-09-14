@@ -3,7 +3,7 @@ title:  "Design the PCB layout"
 subtitle: "your manufacturable blueprint"
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image: "http://t0.gstatic.com/images?q=tbn:ANd9GcRYuUmQwC9xvgPBpjwnHzzXBYGuHsU8sOwcz-7ud5Hvx96XD2Lzuv1Bd6-1z8j8BFn_lwth_c5y"
+image: "https://as2.ftcdn.net/v2/jpg/16/00/96/27/1000_F_1600962790_POzvDH9jX007aEjx8K2bvK1q0uN6JdQw.jpg"
 date:   2015-04-20 12:12:12
 ---
 
