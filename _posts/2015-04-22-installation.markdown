@@ -32,38 +32,16 @@ KiCad's 3D Viewer allows easy inspection of your PCB to check mechanical fit and
 
 The main KiCad components are usually started from the launcher buttons in the KiCad project manager window. These components include:
 
-Component name	Description
-Schematic Editor
-
-Create and edit schematics; simulate circuits with SPICE; generate BOM files
-
-Symbol Editor
-
-Create and edit schematic symbols and manage symbol libraries
-
-PCB Editor
-
-Create and edit PCBs; export 2D and 3D files; generate fabrication output files
-
-Footprint Editor
-
-Create and edit PCB component footprints and manage footprint libraries
-
-GerbView
-
-Gerber and drill file viewer
-
-Bitmap2Component
-
-Convert bitmap images to symbols or footprints
-
-PCB Calculator
-
-Calculator for components, track width, electrical spacing, color codes, etc.
-
-Page Layout Editor
-
-Create and edit worksheet file
+| Component name     | Description                                                         | Usage                       |
+|--------------------|---------------------------------------------------------------------|-----------------------------|
+| Schematic Editor   | Create and edit schematics; simulate circuits with SPICE; generate BOM files | Circuit design and simulation |
+| Symbol Editor      | Create and edit schematic symbols and manage symbol libraries        | Custom symbol creation      |
+| PCB Editor         | Create and edit PCBs; export 2D and 3D files; generate fabrication output files | PCB layout and export       |
+| Footprint Editor   | Create and edit PCB component footprints and manage footprint libraries | Footprint customization     |
+| GerbView           | Gerber and drill file viewer                                        | View manufacturing files    |
+| Bitmap2Component   | Convert bitmap images to symbols or footprints                      | Symbol from images          |
+| PCB Calculator     | Calculator for components, track width, electrical spacing, color codes, etc. | Electrical calculations     |
+| Page Layout Editor | Create and edit worksheet file                                      | Worksheet setup             |
 
 
 
