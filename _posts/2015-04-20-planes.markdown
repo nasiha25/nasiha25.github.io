@@ -13,6 +13,7 @@ date:   2015-04-20 12:12:12
 *   From the main project window, double-click the `.kicad_pcb` file to open the PCB Editor.
 *   **Update the PCB from the schematic:** Click **Tools > Update PCB from Schematic**. Your components will appear on the workspace.
 *   **Place components:** Drag the components to your desired layout. Arrange them to simplify the wiring.
+![KiCad Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDbQ6z31t0TSca9JuB4wq0FopN2i6Ptuyzg&s)
 *   **Draw the board outline:**
     *   Select the `Edge.Cuts` layer from the layer manager on the right side of the screen.
     *   Use the **Add graphic line** tool to draw a box around your components.
