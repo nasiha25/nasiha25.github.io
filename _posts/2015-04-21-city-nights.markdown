@@ -16,6 +16,6 @@ For a simple KiCad project, a single LED circuit is an excellent starting point.
 1 x Voltage source (VDC)
 1 x Ground symbol (GND).
 
-
+https://kicad-info.s3.dualstack.us-west-2.amazonaws.com/optimized/3X/c/e/ce87a1751e2922ca2f22f08a0bd6f0477edc554c_2_673x562.png
 
 
