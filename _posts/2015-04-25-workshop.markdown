@@ -3,20 +3,25 @@ title:  " KiCad Workshop "
 subtitle: "A Hands on experience with Electronic Design Automation (EDA) for beginners."
 author: "Npv"
 avatar: "https://png.pngtree.com/png-vector/20241123/ourmid/pngtree-magical-book-world-illustration-png-image_14551987.png"
-image: "https://siytek.com/wp-content/uploads/2022/04/KiCad-Feat-Img.jpg"
+image: "https://www.hallmarknameplate.com/wp-content/uploads/2018/12/AdobeStock_4381957.jpeg"
 date:   2015-04-25 12:12:12
 ---
 
-### What is KiCad?
-KiCad is a free and open-source software suite for Electronic Design Automation (EDA), used for designing electronic circuit schematics and printed circuit boards (PCBs). It is a powerful tool for professionals and hobbyists and runs on Windows, macOS, and Linux.
----
-![KiCad Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg)
----
-For a beginner, the easiest way to explain KiCad is to think of it as a blueprint and workshop for creating printed circuit boards (PCBs). It takes you from the initial idea of an electronic circuit to producing the manufacturing files for a physical PCB.
-
 ### What is a PCB?
+
 A printed circuit board (PCB) is a structure for assembling electronic components and their connections into a unified circuit that allows electrical current to pass between components. The PCB baseboard is typically made of a rigid nonconductive material, although it can also be built on a flexible base or on a base made up of both rigid and flexible materials. Electronic components such as diodes, inductors and transistors attach to the circuit board, and traces (electrical conduits) connect components.
-image: "http://t3.gstatic.com/images?q=tbn:ANd9GcT4tHdCiBFwE5-K7v6MSQJJG7hkvsk8w7to6zKxKq-sTifAO5VNnYPxPllE0EPM0RKzjMyIAu1S"
+
+![KiCad Logo](http://t3.gstatic.com/images?q=tbn:ANd9GcT4tHdCiBFwE5-K7v6MSQJJG7hkvsk8w7to6zKxKq-sTifAO5VNnYPxPllE0EPM0RKzjMyIAu1S).
+
 Printed circuit boards support electronic devices of all types and sizes. For example, many consumer products contain PCBs, including laptops, tablets, smartphones and smartwatches, as well as appliances, entertainment systems and IoT devices. PCBs also drive communication and navigation systems and are found in industrial and medical equipment, automobiles, aircraft and sea vessels.
 
+Explaining a Printed Circuit Board (PCB) to a beginner can be done by using a simple analogy, like a multi-lane highway system for electricity. A PCB's job is to physically hold electronic parts and connect them together in a neat, organized way to form a complete circuit. This compact and reliable design is a major improvement over older methods that used bulky, hand-wired connections. 
 
+### Core components of a PCB
+
+* Substrate: This is the non-conductive base material, most commonly made of fiberglass (FR-4). It provides the board with its rigidity and holds everything together. For certain applications, flexible plastics or metals are used for the base.
+* Traces: These are the thin, flat lines of copper foil that act as wires, guiding electricity from one component to another. The specific pattern of these traces is what creates the circuit.
+* Pads: These are the exposed metal areas where component legs, or "leads," are soldered to the board to make a secure electrical and mechanical connection.
+* Vias: These are small, plated holes that allow a trace to pass through from one layer of the board to another in multi-layer PCBs.
+* Solder Mask: This is the protective coating, typically green, that covers the copper traces and insulates them from accidental contact. It only leaves the pads exposed, making soldering easier and preventing shorts.
+* Silkscreen: This is the layer of white lettering and symbols printed on top of the solder mask. It provides labels for component positions, pin functions, and other useful information for assembly and troubleshooting. 
