@@ -1,4 +1,4 @@
-# Jekyll Modern Blog
+# Jekyll  Blog
 
 A Simple, Clean and responsive modern blog for jekyll.
 
